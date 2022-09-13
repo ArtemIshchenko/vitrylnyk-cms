@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<title>Главная</title>
+		<url>/</url>
+	</item>
+	<item>
+		<title>Каталог растений</title>
+		<url>/catalog</url>
+		<status>1</status>
+	</item>
+	<item>
+		<title>Сбор</title>
+		<url>articles/sbor</url>
+		<status>0</status>
+	</item>
+	<item>
+		<title>Рецепты</title>
+		<url>/receptes</url>
+		<status>1</status>
+	</item>
+	<item>
+		<title>Указатель применения</title>
+		<url>ukazatel</url>
+		<status>0</status>
+	</item>
+	<item>
+		<title>Домашняя косметика</title>
+		<url>/articles/lekarstvennye-rasteniya-v-domashnej-kosmetike</url>
+	</item>
+	<item>
+		<title>Литература</title>
+		<url>libs</url>
+		<status>0</status>
+	</item>
+</items>

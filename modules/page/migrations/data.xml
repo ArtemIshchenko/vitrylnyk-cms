@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<title>Index</title>
+		<text></text>
+		<slug>page-index</slug>
+		<seo
+			h1="Лекарственные растения"
+			title="Лекарственные растения: рецепты травяных сборов, описание растений"
+			description="Рецепты сборов трав по основным заболеваниям. Описание лекарственных растений. Применение
+			лекарственных трав в домашней косметике"
+			keywords="Сбор трав, рецепты травяных сборов, описание растений">
+		</seo>
+	</item>
+	<item>
+		<title>Рецепты</title>
+		<text>
+			[p class="text-justify"]
+				Вещества отдельных растений относятся к разным классам органических соединений и имеют разные
+				механизмы воздействия, поэтому сочетание растений в виде сборов дает более выраженный эффект.
+				Использование сборов обеспечивает комплексное воздействие на нарушения обмена веществ, оказывает
+				защитное действие на оболочки клеток, способствует восстановлению тканей, укрепляет организм
+				в целом и повышает сопротивляемость.
+			[/p]
+			[p class="text-justify"]
+				Назначают лекарственные травы не только с целью воздействия на тот или иной больной орган, но и
+				для пополнения витаминного запаса. Многие растения непосредственно активизируют защитные силы
+				организма, а также обладают антимикробными свойствами.
+			[/p]
+			[p class="text-justify"]
+				При составлении сбора необходимо учитывать индивидуальные особенности больного и наличие
+				сопутствующих заболеваний.
+			[/p]
+			[p class="text-justify"]
+				Сборы составляются с учетом взаимодействия трав между собой. Рекомендуется иметь 3—4 сбора
+				однонаправленного действия, которые во избежание привыкания следует чередовать. Отсутствие
+				положительного эффекта от сбора в течение двух недель является основанием для его замены.
+				Оптимальное число различных видов сырья в сборе — до 5—6. Желательно в составе сбора иметь
+				2—3 вида растительного сырья с одинаковым основным действием, но с разными сопутствующими.
+			[/p]
+			[h4]По материалам:[/h4]
+			[p class="text-justify"]
+				[i class="text-muted"]
+					1. Куреннов И.П. Энциклопедия лекарственных растений. Самолечебник - М.: Мартин, 2007. - 384 с.
+				[/i]
+			[/p]
+		</text>
+		<slug>page-recepty</slug>
+		<seo
+			h1="Рецепты лекарственных сборов"
+			title="Рецепты лекарственных сборов растений"
+			description="Рецепты сборов трав по основным заболеваниям. Применение
+			лекарственных трав в домашней косметике"
+			keywords="Рецепты травяных сборов, домашняя косметика">
+		</seo>
+	</item>
+	<item>
+		<title>Каталог растений</title>
+		<text>
+		</text>
+		<slug>page-catalog-rasteniy</slug>
+		<seo
+			h1="Каталог растений"
+			title="Каталог растений: описание лекарственных растений, их применение"
+			description="Описание лекарственных растений, их свойства, применение, способы приготовления"
+			keywords="Рецепты травяных сборов, домашняя косметика">
+		</seo>
+	</item>
+	<item>
+		<title>Shop</title>
+		<text>
+		</text>
+		<slug>page-shop</slug>
+		<seo h1="Shop categories" title="Extended shop title"></seo>
+	</item>
+	<item>
+		<title>Shop search</title>
+		<text>
+		</text>
+		<slug>page-shop-search</slug>
+		<seo h1="Shop search results" title="Extended shop search title"></seo>
+	</item>
+	<item>
+		<title>Shopping cart</title>
+		<text>
+		</text>
+		<slug>page-shopcart</slug>
+		<seo h1="Shopping cart H1" title="Extended shopping cart title"></seo>
+	</item>
+	<item>
+		<title>Order created</title>
+		<text>
+			[p]Your order successfully created. Our manager will contact you as soon as possible.[/p]
+		</text>
+		<slug>page-shopcart-success</slug>
+		<seo h1="Success" title="Extended order success title"></seo>
+	</item>
+	<item>
+		<title>News</title>
+		<text>
+		</text>
+		<slug>page-news</slug>
+		<seo h1="News H1" title="Extended news title"></seo>
+	</item>
+	<item>
+		<title>Articles</title>
+		<text>
+		</text>
+		<slug>page-articles</slug>
+		<seo h1="Articles H1" title="Extended articles title"></seo>
+	</item>
+	<item>
+		<title>Gallery</title>
+		<text>
+		</text>
+		<slug>page-gallery</slug>
+		<seo h1="Photo gallery" title="Extended gallery title"></seo>
+	</item>
+	<item>
+		<title>Guestbook</title>
+		<text>
+		</text>
+		<slug>page-guestbook</slug>
+		<seo h1="Guestbook H1" title="Extended guestbook title"></seo>
+	</item>
+	<item>
+		<title>FAQ</title>
+		<text>
+		</text>
+		<slug>page-faq</slug>
+		<seo h1="Frequently Asked Question" title="Extended faq title"></seo>
+	</item>
+	<item>
+		<title>Contact</title>
+		<text>
+			[p][strong]Address[/strong]: Dominican republic, Santo Domingo, Some street 123[/p]
+			[p][strong]ZIP[/strong]: 123456[/p][p][strong]Phone[/strong]: +1 234 56-78[/p][p][strong]E-mail[/strong]:
+			demo@example.com[/p]
+		</text>
+		<slug>page-contact</slug>
+		<seo h1="Contact us" title="Extended contact title"></seo>
+	</item>
+	
+</items>

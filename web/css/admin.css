@@ -1,0 +1,76 @@
+
+.column1 {
+		width: 190px;
+		float: left;
+    padding: 15px;
+		background-color: #fff;
+		border-radius: 5px;
+}
+.column2 {
+		width: 946px;
+		margin-left: 200px;
+		padding: 15px;
+		background-color: #fff;
+		border-radius: 5px;
+}
+.column1 ul li a:hover, .column1 ul li.active a {
+    background: #44b5f6;
+    border-color: #44b5f6;
+    border-radius: 0;
+    color: #fff;
+}
+.container div.column1 div.panel.panel-primary {
+	margin-bottom: 0;
+}
+.nav > li > a {
+	padding: 10px 5px;
+	font-size: 12px;
+}
+.nav > li > a.list-group-item1 {
+    position: relative;
+    display: block;
+    margin-bottom: -1px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+		border-bottom: 1px solid #ddd;
+		padding-left: 5px;
+		padding-right: 5px;
+}
+
+#navbar-brand1 {
+    float: left;
+    height: 42px;
+    padding: 15px 15px;
+    font-size: 16px;
+    line-height: 20px;
+		color: #fff;
+}
+.navbar-header1 {
+		padding: 0;
+		clear: both;
+}
+div.conteiner1 { 
+   z-index: 2;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.grid-view table td.tbl-cell-vertical-center{
+	vertical-align: middle;
+}
+.grid-view table td.tbl-cell-center, .grid-view table th {
+	text-align: center;
+}
+.grid-view table tr.row-is-active {background: #E5F1F4}
+
+.grid-view table tr.row-is-not-active {background: #F8F8F8}
+table.detail-view tr th {
+	width: 50%;
+}
+div.field-paragraph-type, div.field-paragraph-align {
+	display: inline-block;
+	width: 35%;
+	vertical-align: top;
+}

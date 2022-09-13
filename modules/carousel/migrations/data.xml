@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<image>/uploads/carousel/bagulnik.jpg</image>
+		<title>Багульник болотный</title>
+		<link>catalog/bagulnik-bolotnyj</link>
+	</item>
+	<item>
+		<image>/uploads/carousel/alteyi.jpg</image>
+		<title>Алтей лекарственный</title>
+		<link>catalog/altej-lekarstvennyj</link>
+	</item>
+	<item>
+		<image>/uploads/carousel/anis.jpg</image>
+		<title>Анис обыкновенный</title>
+		<link>catalog/anis-obyknovennyj</link>
+	</item>
+	<item>
+		<image>/uploads/carousel/air_bolotnyi.jpeg</image>
+		<title>Аир болотный</title>
+		<link>catalog/air-bolotnyj</link>
+	</item>
+	<item>
+		<image>/uploads/carousel/aloe.jpg</image>
+		<title>Алоэ древовидное (столетник)</title>
+		<link>catalog/aloe-drevovidnoe-stoletnik</link>
+	</item>
+</items>
